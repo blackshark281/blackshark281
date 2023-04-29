@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @blackshark281
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning MERN stack
+- 👋 Hi, I’m Ritik Gupta
+- 👀 I’m interested in software development field, preferably web development.
+- 🌱 I’m currently working on some prsonal projets MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ritikgupta281@gmail.com
 
