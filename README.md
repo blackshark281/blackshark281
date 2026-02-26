@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritik Gupta
-- 👀 I’m interested in software development field, preferably web development.
+- 👀 I’m a backend engineer.
 - 🌱 I’m currently working on some personal projets in MERN stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ritikgupta281@gmail.com
